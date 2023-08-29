@@ -1,0 +1,2668 @@
+2023-08-25 16:34:50,146 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:34:50,652 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.20:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.20:22
+
+
+2023-08-25 16:34:50,715 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:40:31,444 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:40:31,987 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:40:35,818 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 16:40:44,290 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:40:46,612 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:40:48,035 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 16:41:02,452 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:41:02,944 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:41:06,540 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 16:42:10,431 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:42:11,025 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:42:14,751 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 16:44:55,479 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.20:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.20:22
+
+
+2023-08-25 16:44:55,486 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:44:58,700 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:45:35,263 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:45:36,286 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:45:40,820 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 16:46:08,563 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 16:46:11,102 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:46:12,595 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 16:49:22,453 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.20:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.20:22
+
+
+2023-08-25 16:49:22,497 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 16:49:30,701 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:05:06,531 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:05:06,923 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:05:24,451 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:05:24,828 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:05:32,653 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:06:12,517 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:06:14,866 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:06:16,390 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:06:39,195 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:06:41,517 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:07:06,369 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:07:08,613 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:07:10,077 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:13:08,636 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:13:11,112 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:13:12,556 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:13:34,250 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:13:36,532 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:13:37,974 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:14:00,666 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:14:03,064 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:14:04,548 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:14:22,375 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:14:22,385 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:14:26,362 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:14:32,186 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:14:34,312 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:14:35,731 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:15:32,083 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:15:32,551 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:15:36,334 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:15:59,145 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.20:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.20:22
+
+
+2023-08-25 17:15:59,224 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:16:01,595 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:16:51,852 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:16:52,407 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:16:56,153 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:17:42,377 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:17:42,832 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.20:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.20:22
+
+
+2023-08-25 17:17:42,888 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:18:03,422 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:18:06,017 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:19:19,697 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.20:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.20:22
+
+
+2023-08-25 17:19:19,782 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:19:21,887 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:20:35,162 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:20:35,422 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:20:39,237 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:22:48,172 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:22:50,395 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:22:55,832 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:23:36,950 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:23:39,480 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:23:40,766 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-25 17:24:13,838 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-25 17:24:14,515 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-25 17:24:18,242 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:44:39,849 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:44:41,980 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:44:43,412 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:45:47,207 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:45:47,333 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:45:50,942 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:46:15,013 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:46:17,366 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:46:18,860 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:46:53,148 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:46:55,550 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:46:57,049 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:47:21,580 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:47:24,171 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:47:25,647 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:48:01,381 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:48:03,642 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:48:05,159 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:48:46,825 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:48:46,848 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:48:50,654 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:49:01,479 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:49:03,712 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:49:05,155 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 10:57:01,938 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 10:57:01,967 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 10:57:05,617 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:01:35,235 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:01:35,342 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:01:39,300 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:28:20,478 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:28:20,653 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:28:24,195 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:28:46,277 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:28:46,356 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:28:49,957 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:30:44,274 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:30:44,806 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:30:47,961 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:31:22,019 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:31:22,111 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:31:25,844 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:31:53,581 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:31:55,780 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:31:57,328 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:32:23,607 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:32:23,665 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:32:27,280 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 11:33:45,422 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 11:33:45,550 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 11:33:49,150 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 12:54:06,594 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 12:54:06,768 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 12:54:10,614 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:07:58,341 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:07:58,597 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:08:02,448 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:10:37,173 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:10:37,506 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:10:41,359 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:11:16,801 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:11:17,380 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:11:21,479 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:14:20,950 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:14:24,591 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:17:12,207 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:17:14,494 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:17:15,995 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:17:39,465 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:17:40,059 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:17:43,482 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:18:28,707 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:18:29,229 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:18:32,783 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:19:14,986 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:19:15,531 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:19:19,237 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:19:40,984 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:19:41,470 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:19:44,881 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:20:06,079 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:20:08,065 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:20:09,618 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:21:00,241 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:21:02,681 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:21:04,123 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:22:05,747 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:22:08,138 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:22:09,572 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:22:28,029 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:22:28,198 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:22:31,938 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:24:12,490 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:24:15,183 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:24:16,658 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:24:38,564 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:24:41,596 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:24:43,024 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:25:39,914 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:25:42,148 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:25:43,527 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 15:26:14,795 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 15:26:15,436 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 15:26:18,680 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 16:51:24,950 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 16:51:28,366 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 16:52:12,766 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 16:52:13,367 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 16:52:20,767 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-28 16:52:50,303 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-28 16:52:50,457 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-28 16:52:54,377 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-29 12:54:04,728 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-29 12:54:04,862 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-29 12:54:08,561 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-29 14:40:02,706 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-29 14:40:03,088 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-29 14:40:07,238 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-29 14:40:51,233 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-29 14:40:51,590 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-29 14:40:55,424 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-29 14:41:31,709 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-29 14:41:31,822 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-29 14:41:35,470 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
+2023-08-29 15:11:13,889 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.1:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.1:22
+
+
+Authentication failed.
+2023-08-29 15:11:14,220 ERROR netmiko.ssh_dispatcher Netmiko was unable to reach the provided host and port: 172.16.180.10:22
+
+TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_ios 172.16.180.10:22
+
+
+2023-08-29 15:11:18,052 ERROR netmiko.ssh_dispatcher Authentication failure to: 172.16.180.11:22 (cisco_ios)
+
+Authentication to device failed.
+
+Common causes of this problem are:
+1. Invalid username and password
+2. Incorrect SSH-key file
+3. Connecting to the wrong device
+
+Device settings: cisco_ios 172.16.180.11:22
+
+
+Authentication failed.
