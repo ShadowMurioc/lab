@@ -36,20 +36,21 @@ def upgrade_info(excel_name):
     return ip_list, hostname_list, user_list, passwd_list, timeout_list, device_type_list, image_list, sdwan_ver_list
 
 
-def device_login(ip, hostname, user, passwd, timeout, device_type, image, sdwan_ver):
+def device_login(ip, hostname, user, passwd, timeout, device_type):
     device_ssh = {
        'device_type': device_type,
        'ip': ip,
        'username': user,
        'password': passwd,
        'read_timeout_override': timeout,
-       'session_log': 'session.log',
+       'session_log': hostname + '-session.log',
     }
     return device_ssh
 
 
 def check_device(ip, hostname, user, passwd, timeout, device_type, image, sdwan_ver):
     rst = ping3.ping(ip)
+    # rst = True
     n = 0
     success_login = False
     alive_host = []

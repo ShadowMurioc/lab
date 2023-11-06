@@ -24,7 +24,7 @@ if __name__ == "__main__":
     info = upgrade_info(excel_name='info.xls')
     ip, hostname, user, passwd, timeout, device_type, image, sdwan_ver = info
     # 限定并发链接数
-    thread_nums = 50
+    thread_nums = 10
     limit_thread = threading.BoundedSemaphore(value=thread_nums)
     threads = []
     success_count = 0

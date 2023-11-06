@@ -1,0 +1,36 @@
+
+
+
+sysname {{cfg_hostname}}
+
+undo telnet server enable
+ssh server enable
+lldp enable
+
+info-center enable
+info-center logbuffer size 1024
+info-center loghost source Vlan-interface110
+info-center loghost 192.168.2.232
+info-center source default loghost level informational
+
+undo copyright-info enable
+Header login %*information*
+******************************************
+*  DongFang Futures
+*  Hostname: {{cfg_hostname}}
+*  Modle: {{ model }}
+*  Location: {{ Location }}
+*  Serial: {{ sdwan_ver }}
+*  Contact: Network Dept.
+*  Any Unauthorized Login is Illegal !!!
+******************************************
+%
+
+interface M-GigabitEthernet0/0/0
+undo ip address
+
+int vlan 1
+undo ip address
+quit
+
+save f

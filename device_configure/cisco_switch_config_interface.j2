@@ -1,0 +1,25 @@
+{% if pc == "False" -%}
+ interface {{ interface_name }}
+ {% if desc is defined and desc == "nan"  -%}
+ description un_desc_default
+ {% elif desc is not none -%}
+ description {{ desc }}
+ {% endif -%}
+{% if link_type == "access" -%}
+ switchport mode access
+ switchport access vlan {{ vlan }}
+ exit
+{% elif link_type == "trunk" -%}
+ switchport mode trunk
+ switchport trunk allowed vlan {{ vlan }}
+{% elif link_type == "layer3" -%}
+ no switchport
+ ip address {{ ip }}
+{% endif -%}
+{% elif pc == "True" -%}
+interface portchannel {{ pcid }}
+switchport mode trunk
+switchport trunk allowed vlan {{ vlan }}
+interface {{ interface_name }}
+channel-group {{ pcid }} mode on
+{% endif -%}
